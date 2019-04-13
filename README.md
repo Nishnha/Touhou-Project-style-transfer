@@ -10,4 +10,4 @@ A Deep LSTM variational autoencoder trained on 100+ hours of Touhou Project musi
 4. Activate the environment `source env\Scripts\activate` and install the project requirements `pip install -r requirements.txt`.
 
 ## Training data
-This project was trained on over 100+ hours of Touhou Project music. The music was converted to 24bit WAV and fed the discrete fourier transform into the the variable autoencoder. Our training data is available in `/data`.
+This project was trained on over 100+ hours of Touhou Project music. The music was converted to 16bit WAV and fed the discrete fourier transform into the the variable autoencoder. Our training data is available in `/data`.
